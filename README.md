@@ -1,4 +1,4 @@
-# FD-Gen Beta Version 0.1
+# fire data generator (FD-Gen) Beta Version 0.1
 ## Release Notes
 
 **Release Name**: FD-Gen Beta 0.1
