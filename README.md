@@ -60,6 +60,8 @@ In addition to the spreadsheet containing the sampled parameter value informatio
 
 
 ## Example
+
+### Start
 [**commercial building fire case**](https://github.com/hqfang3/FD-Gen/tree/main/example/example_commercial.fds)
 
 1. open command prompt
@@ -78,7 +80,7 @@ type Y or y to continue the following step.
 5. finish
 project folder **example_commercial** will be created under the current working directory.
 
-Breakdown of the project folder
+### Breakdown of the output files
 
 **CASE_FOLDER**
 The CASE_FOLDER contains multiple FDS case files generated based on the sampled values designed in the input FD-Gen file configuration. 
