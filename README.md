@@ -18,7 +18,7 @@ The workflow of FD-Gen is shown below. It consists of 6 main steps.
 
 **Figure 1.** FD-Gen framework.
 
-## Usage example 
+## Usage appraoch 
 
 ### Step 1: prepare the FD-Gen input file.
 To prepare the FD-Gen input file.
@@ -34,13 +34,13 @@ The following folder contains several examples of prepared FD-Gen input files.
 ### Step 2: analyze the input file with FD-Gen.
 To open a CMD (Command Prompt) window, change the working directory to your local repository, and then read an input file using FD-Gen.
 1. Open the Command Prompt.
-2. Change the current working directory to your local repository:
+2. Change the current working directory to your local repository.
 
     ```cmd
     cd path\to\your\repository
     ```
 
-3. Read the input file with FD-Gen:
+3. Read the input file with FD-Gen.
 
     ```cmd
     FD-Gen PATH_TO_INPUT_FILE
