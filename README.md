@@ -64,20 +64,22 @@ In addition to the spreadsheet containing the sampled parameter value informatio
 ### Start
 [**commercial building fire case**](https://github.com/hqfang3/FD-Gen/tree/main/example/example_commercial.fds)
 
-1. open command prompt
+1. downoad FD-Gen.exe and the example input file example_commercial.fds
 
-2. Change the current working directory to your local repository.
+2. open command prompt
 
-3. Read the input file with FD-Gen
+3. Change the current working directory to your local repository.
+
+4. Read the input file with FD-Gen
 
 ![Figure 2. read the input file.](images/Picture2.png)
 
 **Figure 2.** read the input file.
 
-4. check FD-Gen script and parameter sampling data.
+5. check FD-Gen script and parameter sampling data.
 type Y or y to continue the following step.
 
-5. finish
+6. finish
 project folder **example_commercial** will be created under the current working directory.
 
 ### Breakdown of the output files
@@ -109,5 +111,12 @@ The SEEDS_FOLDER contains the seeds used for the project, ensuring reproducibili
 ![Figure 6. example of SEEDS_FOLDER.](images/Picture6.png)
 
 **Figure 6.** example of SEEDS_FOLDER.
+
+## Documentation
+The documentation will be published as a NIST technical Note in the near future, providing detailed instructions and guidance on using FD-Gen.
+
+## Acknowledgements
+
+## Citation
 
 
