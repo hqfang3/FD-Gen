@@ -2,11 +2,11 @@
 ## Release Notes
 Fire data generator (FD-Gen) is a Python-based script tool designed to automate the creation of multiple FDS input files.
 
-*Release Name*: FD-Gen Beta 0.1
+**Release Name**: FD-Gen Beta 0.1
 
-*Release Date*: [Oct 15, 2024]
+**Release Date**: [Oct 15, 2024]
 
-*Version*: 0.1 (Beta)
+**Version**: 0.1 (Beta)
 
 # Fire data generator (version 0)
 ## Introduction
