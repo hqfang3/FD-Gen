@@ -12,7 +12,7 @@
 **Fire data generator (FD-Gen)** is a Python-based script tool designed to automate the creation of multiple FDS input files.
 The tool is developed using the Python programming language. It reads parameters and commands from a text file that integrates FD-Gen syntax into an FDS input file template, enabling seamless customization and automation in the creation of FDS input files.
 
-The workflow of FD-Gen is shown below. It consists of 6 main steps.
+The workflow of FD-Gen is shown below. It consists of 6 main steps. The comprehensive documentation will be released soon.
 
 ![Figure 1. FD-Gen framework.](images/Picture1.png)
 
