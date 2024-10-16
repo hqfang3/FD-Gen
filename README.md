@@ -60,3 +60,52 @@ In addition to the spreadsheet containing the sampled parameter value informatio
 
 
 ## Example
+[**commercial building fire case**](https://github.com/hqfang3/FD-Gen/tree/main/example/example_commercial.fds)
+
+1. open command prompt
+
+2. Change the current working directory to your local repository.
+
+3. Read the input file with FD-Gen
+
+![Figure 2. read the input file.](images/Picture2.png)
+
+**Figure 2.** read the input file.
+
+4. check FD-Gen script and parameter sampling data.
+type Y or y to continue the following step.
+
+5. finish
+project folder **example_commercial** will be created under the current working directory.
+
+Breakdown of the project folder
+
+**CASE_FOLDER**
+The CASE_FOLDER contains multiple FDS case files generated based on the sampled values designed in the input FD-Gen file configuration. 
+
+![Figure 3. example of CASE_FOLDER.](images/Picture3.png)
+
+**Figure 3.** example of CASE_FOLDER.
+
+**OUTPUT_FOLDER**
+The OUTPUT_FOLDER contains visualizations of the sampled data, including plots of fire source locations, HRR curves, and specific value distributions. 
+
+![Figure 4. example of OUTPUT_FOLDER.](images/Picture4.png)
+
+**Figure 4.** example of OUTPUT_FOLDER.
+
+**PARAMETER_FILE_FOLDER**
+The PARAMETER_FILE_FOLDER contains a spreadsheet with the sampled parameter values for each case, along with a text file providing a summary of the parameter values. 
+
+![Figure 5. example of PARAMETER_FILE_FOLDER.](images/Picture5.png)
+
+**Figure 5.** example of PARAMETER_FILE_FOLDER.
+
+**SEEDS_FOLDER**
+
+![Figure 6. example of SEEDS_FOLDER.](images/Picture6.png)
+The SEEDS_FOLDER contains the seeds used for the project, ensuring reproducibility of the sampling process in the future. 
+
+**Figure 6.** example of SEEDS_FOLDER.
+
+
