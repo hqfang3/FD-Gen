@@ -13,8 +13,15 @@
 FD-Gen is developed using the Python programming language. It reads parameters and commands from a text file that integrates FD-Gen syntax into an FDS input file template, enabling seamless customization and automation in the creation of FDS input files.
 
 
-The workflow of FD-Gen is shown in Figure 1. It consists of 6 main steps, including **FDS template**, **FD-Gen input file**, **script checking**, **parameter sampling**,**input file wrapping**, **output**.
+The workflow of FD-Gen is shown below. It consists of 6 main steps.
 
 ![Figure 1. FD-Gen framework.](images/Picture1.png)
 
+**Figure 1.** FD-Gen framework.
 
+
+## Example 
+
+### step 1: create the FD-Gen script.
+
+### step 2: create the FD-Gen script.
