@@ -48,14 +48,15 @@ To open a CMD (Command Prompt) window, change the working directory to your loca
 
 
 ### Step 3: check the parameter sampling data.
-
+After running the script for checking and parameter sampling, users can review the sampled parameter values in the **PARAMETER_FILE_FOLDER** located within the project folder. If the sampling aligns with the design, you can proceed with the program in the command (cmd) window. Otherwise, you'll need to return to the FD-Gen input file to modify the script guiding the parameter sampling.
 
 
 ### Step 4: wrap the FDS input file.
-
+The wrapping process will automatically replace the sampled values with their corresponding original values within the script lines of the FDS template file. As a result, multiple FDS input files, as designed, will be generated and saved in the project folder under **CASE_FOLDER**.
 
 
 ### Step 5: acquire the outputs.
+In addition to the spreadsheet containing the sampled parameter value information in the **PARAMETER_FILE_FOLDER** and the FDS input files in the **CASE_FOLDER**, FD-Gen also provides outputs to plot sampled fire source locations, HRR curves, and value distributions. These visual outputs give users a comprehensive view of the data and help ensure the reproducibility of the dataset. The output files are saved in the project folder under **OUTPUT_FOLDER**.
 
 
-
+## Example
