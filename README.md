@@ -102,9 +102,9 @@ The PARAMETER_FILE_FOLDER contains a spreadsheet with the sampled parameter valu
 **Figure 5.** example of PARAMETER_FILE_FOLDER.
 
 **SEEDS_FOLDER**
+The SEEDS_FOLDER contains the seeds used for the project, ensuring reproducibility of the sampling process in the future. 
 
 ![Figure 6. example of SEEDS_FOLDER.](images/Picture6.png)
-The SEEDS_FOLDER contains the seeds used for the project, ensuring reproducibility of the sampling process in the future. 
 
 **Figure 6.** example of SEEDS_FOLDER.
 
