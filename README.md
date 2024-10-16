@@ -64,11 +64,11 @@ In addition to the spreadsheet containing the sampled parameter value informatio
 ### Start
 [**commercial building fire case**](https://github.com/hqfang3/FD-Gen/tree/main/example/example_commercial.fds)
 
-1. downoad FD-Gen.exe and the example input file example_commercial.fds
+1. downoad **FD-Gen.exe** and the example input file **example_commercial.fds**
 
 2. open command prompt
 
-3. Change the current working directory to your local repository.
+3. Change the current working directory to your local repository
 
 4. Read the input file with FD-Gen
 
